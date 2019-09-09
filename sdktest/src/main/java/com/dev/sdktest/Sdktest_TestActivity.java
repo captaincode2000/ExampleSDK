@@ -20,6 +20,6 @@ public class Sdktest_TestActivity extends AppCompatActivity {
     public void onClickStart(View view) {
         /*Intent intent = new Intent(Sdktest_TestActivity.this, ZCommonActivityTest.class);
         startActivity(intent);*/
-        Toast.makeText(Sdktest_TestActivity.this, "OnClick", Toast.LENGTH_SHORT).show();
+        Toast.makeText(Sdktest_TestActivity.this, "OnClick Android Dev", Toast.LENGTH_SHORT).show();
     }
 }
